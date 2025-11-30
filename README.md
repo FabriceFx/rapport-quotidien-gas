@@ -9,7 +9,7 @@ Ce projet contient une solution clé en main pour générer et envoyer des email
 ## 👤 Auteur
 **Fabrice Faucheux** 
 
-## ✨ Fonctionnalités Clés
+## ✨ Fonctionnalités clés
 
 * **Syntaxe Moderne** : Utilisation exclusive d'ES6+ (`const`, `let`, Fléchées, Template Literals) pour une maintenance aisée.
 * **Robustesse** : Gestion des erreurs intégrée (`try...catch`) pour éviter les échecs silencieux.
